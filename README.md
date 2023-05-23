@@ -12,7 +12,7 @@ Welcome to my data science playground! This is where I explore the fascinating w
 
 
 ![keiziapurba's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiziapurba&hide=issues,contribs&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiziapurba)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiziapurba&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## About Me
