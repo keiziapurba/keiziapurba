@@ -20,7 +20,6 @@ I'm a passionate data scientist with expertise in various areas, including:
 - Computer Vision
 - Data Visualization
 - Predictive Analytics
-- SQL
 - and more!
 
 I'm constantly learning and exploring new techniques and methodologies to extract meaningful information from data and make data-driven decisions.
