@@ -11,7 +11,7 @@
 Welcome to my data science playground! This is where I explore the fascinating world of data, machine learning, deep learning, and artificial intelligence. Through my projects and experiments, I aim to gain insights, solve problems, and push the boundaries of what's possible with data.
 
 
-[![keiziapurba's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiziapurba)](https://github.com/keiziapurba/github-readme-stats)
+![keiziapurba's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiziapurba&show_icons=true&theme=transparent)
 
 
 ## About Me
