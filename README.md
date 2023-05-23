@@ -1,4 +1,4 @@
-# Kei's Data Science Playground 🚀
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kei's Data Science Playground 🚀)](https://git.io/typing-svg)
 
 <div align="center">
   
