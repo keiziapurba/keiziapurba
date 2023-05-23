@@ -35,7 +35,7 @@ Here are some of the exciting projects you'll find in this repository:
 
 1. [YouTube Text Data Analysis](https://github.com/keiziapurba/YouTube-Text-Data-Analysis.git): A text data analysis case study that contains sentiment analysis, emoji analysis, likes vs views analysis, and trending videos text on YouTube.
 2. [Health Insurance Cross-Sell Prediction](https://github.com/keiziapurba/Health-Insurance-Cross-Sell-Prediction.git): Predicting whether a customer who already own Health Insurance would be interested in subscribing Vehicle Insurance.
-3. [Toxic Comment Classification](https://github.com/keiziapurba/Toxic-Comment-Classification.git): A deep learning model that classifies comments as toxic or non-toxic.
+3. [Toxic Comment Classification](https://github.com/keiziapurba/Toxic-Comment-Classification)): A deep learning model that classifies comments as toxic or non-toxic.
 4. [Data Analysis and Visualization Telco Customer Churn](https://github.com/keiziapurba/Data-Analysis-and-Viz-Telco-Customer-Churn.git): Describes Telco companies customer behavior and profiles, utilizing visualization techniques for customer retention analysis.
 
 Feel free to dive into the projects and explore the Jupyter notebooks, where I've documented the data analysis, modeling techniques, and insights gained from each project.
