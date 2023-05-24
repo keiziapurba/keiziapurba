@@ -33,7 +33,7 @@ I'm constantly learning and exploring new techniques and methodologies to extrac
 
 Discover a treasure trove of captivating projects within my repository, each brimming with excitement and insights:
 
-1. [YouTube Text Data Analysis](https://github.com/keiziapurba/YouTube-Text-Data-Analysis.git): Unravel the secrets hidden within YouTube's textual realm through sentiment analysis, emoji exploration, likes vs. views correlation, and a deep dive into trending video narratives.
+1. [YouTube Text Data Analysis](https://github.com/keiziapurba/YouTube-Text-Data-Analysis.git): Unravel the secrets hidden within YouTube's textual realm through sentiment analysis, emoji exploration, likes vs views correlation, and a deep dive into trending video narratives.
 2. [Health Insurance Cross-Sell Prediction](https://github.com/keiziapurba/Health-Insurance-Cross-Sell-Prediction.git): Peer into the crystal ball of predictive analytics as we forecast whether existing health insurance customers will embrace vehicle insurance, unearthing invaluable patterns and propensities.
 3. [Toxic Comment Classification](https://github.com/keiziapurba/Toxic-Comment-Classification): Venture into the realm of deep learning as we craft a powerful model that distinguishes toxic comments from their benign counterparts, paving the way for safer and more inclusive online interactions..
 4. [Data Analysis and Visualization Telco Customer Churn](https://github.com/keiziapurba/Data-Analysis-and-Viz-Telco-Customer-Churn.git): Embark on a visual expedition through Telco customer behavior, employing data analysis and visualization techniques to uncover insights that empower targeted customer retention strategies.
@@ -48,6 +48,5 @@ Beyond my projects, I weave captivating narratives through articles and blog pos
 
 ## Let's Connect and Conquer!
 I eagerly await connections with fellow data enthusiasts and professionals, forging alliances and kindling the flame of collaborative discovery. Reach out to me on [LinkedIn](https://www.linkedin.com/in/keiziapurba/) or explore my code repositories on [GitHub](https://github.com/keiziapurba). Together, we will embark on a thrilling expedition, harnessing the power of data to unlock new frontiers!
-<div align="center">
-  <img src="https://your-image-url.com" alt="Profile Image" width="200px">
+  
 </div>
