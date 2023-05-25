@@ -12,7 +12,7 @@ Prepare to embark on a captivating journey through the realm of data science, wh
 
 
 ![keiziapurba's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiziapurba&hide=issues,contribs&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiziapurba&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiziapurba&theme=cobalt)](https://github.com/keiziapurba/github-readme-stats)
 
 
 ## About Me
