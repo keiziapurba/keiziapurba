@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Kei's+Data+Odyssey+🎮🪬)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Kei's+Data+Odyssey+🧝🏼‍♀️🪬)](https://git.io/typing-svg)
 
 <div align="center">
   
