@@ -12,11 +12,10 @@ Prepare to embark on a captivating journey through the realm of data science, wh
 
 
 ![keiziapurba's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiziapurba&hide=issues,contribs&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiziapurba&theme=cobalt)](https://github.com/keiziapurba/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiziapurba&theme=cobalt&langs_count=8)](https://github.com/keiziapurba/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=keiziapurba)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiziapurba&layout=compact)](https://github.com/keiziapurba/github-readme-stats)
 
 
 ## About Me
