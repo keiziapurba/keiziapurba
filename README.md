@@ -11,7 +11,7 @@
 Prepare to embark on a captivating journey through the realm of data science, where I am a passionate explorer, constantly pushing boundaries and learning in pursuit of knowledge and innovation.
 
 
-![keiziapurba's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiziapurba&hide=issues&show_icons=true&theme=cobalt)
+![keiziapurba's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiziapurba&hide=issues,contribs&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiziapurba&theme=cobalt&layout=compact)](https://github.com/keiziapurba/github-readme-stats)
 
