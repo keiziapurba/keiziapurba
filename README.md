@@ -31,7 +31,10 @@ I am an enthusiastic data science explorer with a strong commitment to professio
 <p align="left"> <a href="https://www.github.com/keiziapurba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/keiziapurba/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@keiziapurba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21970279/keizia-purba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 
-<b>My GitHub Stats</b>
+### <b>My GitHub Stats</b>
+![skyline kei](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTA1ZGI3OGJlYmM4MDQxMzM2ZWI0MTNmMzgxZTY0MDdhYmUwZTFlNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/efvMgTlIzR3dZPk71e/giphy.gif)
+
+
 
 <a href="http://www.github.com/keiziapurba"><img src="https://github-readme-stats.vercel.app/api?username=keiziapurba&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="keiziapurba's GitHub stats" /></a>
 
@@ -41,8 +44,6 @@ I am an enthusiastic data science explorer with a strong commitment to professio
 
 <a href="https://github.com/keiziapurba" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keiziapurba&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/keiziapurba/YouTube-Text-Data-Analysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=keiziapurba&repo=YouTube-Text-Data-Analysis&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/keiziapurba/Health-Insurance-Cross-Sell-Prediction" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=keiziapurba&repo=Health-Insurance-Cross-Sell-Prediction&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/keiziapurba/Toxic-Comment-Classification" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=keiziapurba&repo=Toxic-Comment-Classification&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/keiziapurba/Data-Analysis-and-Viz-Telco-Customer-Churn" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=keiziapurba&repo=Data-Analysis-and-Viz-Telco-Customer-Churn&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+### Look at the 🐍 devouring my contribution graph
+![Snake animation](https://github.com/keiziapurba/keiziapurba/blob/output/github-contribution-grid-snake.svg)
