@@ -2,53 +2,47 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keiziapurba/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/keiziapurba)
-[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@keiziapurba)
   
 </div>
 
-Prepare to embark on a captivating journey through the realm of data science, where I am a passionate explorer, constantly pushing boundaries and learning in pursuit of knowledge and innovation.
 
 
-![keiziapurba's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiziapurba&hide=issues,contribs&show_icons=true&theme=cobalt)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keiziapurba&theme=cobalt&layout=compact)](https://github.com/keiziapurba/github-readme-stats)
+I am an enthusiastic data science explorer with a strong commitment to professional growth. With a fervent curiosity, I embark on exciting expeditions into the realms of Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Data Visualization, Predictive Analytics, and a multitude of other captivating disciplines. By immersing myself in a perpetual learning journey, I strive to remain at the forefront of emerging techniques and methodologies. My primary objective is to uncover valuable insights from data and facilitate informed decision-making processes. With a relentless pursuit of knowledge, I continuously expand my skill set to derive meaningful information that empowers organizations to thrive in today's data-centric landscape.
 
 
 
-## About Me
-
-I'm an ardent explorer in the realm of data science, embarking on a 
-
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Data Visualization
-- Predictive Analytics
-- and a myriad of exhilarating frontiers!
-
-I'm constantly learning and exploring new techniques and methodologies to extract meaningful information from data and make data-driven decisions.
-
-## Projects that Ignite Curiosity
-
-Discover a treasure trove of captivating projects within my repository, each brimming with excitement and insights:
-
-1. [YouTube Text Data Analysis](https://github.com/keiziapurba/YouTube-Text-Data-Analysis.git): Unravel the secrets hidden within YouTube's textual realm through sentiment analysis, emoji exploration, likes vs views correlation, and a deep dive into trending video narratives.
-2. [Health Insurance Cross-Sell Prediction](https://github.com/keiziapurba/Health-Insurance-Cross-Sell-Prediction.git): Peer into the crystal ball of predictive analytics as we forecast whether existing health insurance customers will embrace vehicle insurance, unearthing invaluable patterns and propensities.
-3. [Toxic Comment Classification](https://github.com/keiziapurba/Toxic-Comment-Classification): Venture into the realm of deep learning as we craft a powerful model that distinguishes toxic comments from their benign counterparts, paving the way for safer and more inclusive online interactions..
-4. [Data Analysis and Visualization Telco Customer Churn](https://github.com/keiziapurba/Data-Analysis-and-Viz-Telco-Customer-Churn.git): Embark on a visual expedition through Telco customer behavior, employing data analysis and visualization techniques to uncover insights that empower targeted customer retention strategies.
-
-## Illuminating Insights and Discoveries
-Within the captivating Jupyter notebooks of each project, you'll unlock a trove of illuminating insights, methodologies, and discoveries. Join me as we unravel the stories hidden within the data, painting a vivid picture of the possibilities it holds.
+* 🌍  I'm based in Indonesia
+* ✉️  You can contact me at [keiziapurba@gmail.com](mailto:keiziapurba@gmail.com)
+* 🧠  I'm learning Web Scraping, Machine Learning, Deep Learning with Python
+* 🤝  I'm open to collaborating on open source projects.
 
 
-## Captivating Articles & Blogs
-Beyond my projects, I weave captivating narratives through articles and blog posts on the wonders of data science, machine learning, and AI. Explore my intellectual musings on [Medium](https://medium.com/@keiziapurba), where we delve deeper into the intricacies of this captivating realm.
+
+### Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/keiziapurba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/keiziapurba/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@keiziapurba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21970279/keizia-purba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 
-## Let's Connect and Conquer!
-I eagerly await connections with fellow data enthusiasts and professionals, forging alliances and kindling the flame of collaborative discovery. Reach out to me on [LinkedIn](https://www.linkedin.com/in/keiziapurba/) or explore my code repositories on [GitHub](https://github.com/keiziapurba). Together, we will embark on a thrilling expedition, harnessing the power of data to unlock new frontiers!
-  
-</div>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/keiziapurba"><img src="https://github-readme-stats.vercel.app/api?username=keiziapurba&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="keiziapurba's GitHub stats" /></a>
+
+<a href="http://www.github.com/keiziapurba"><img src="https://github-readme-streak-stats.herokuapp.com/?user=keiziapurba&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=cobalt" /></a>
+
+
+
+<a href="https://github.com/keiziapurba" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keiziapurba&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/keiziapurba/YouTube-Text-Data-Analysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=keiziapurba&repo=YouTube-Text-Data-Analysis&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/keiziapurba/Health-Insurance-Cross-Sell-Prediction" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=keiziapurba&repo=Health-Insurance-Cross-Sell-Prediction&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/keiziapurba/Toxic-Comment-Classification" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=keiziapurba&repo=Toxic-Comment-Classification&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/keiziapurba/Data-Analysis-and-Viz-Telco-Customer-Churn" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=keiziapurba&repo=Data-Analysis-and-Viz-Telco-Customer-Churn&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
