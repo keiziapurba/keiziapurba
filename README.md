@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Kei's+Data+Odyssey+🍄🪬)](https://git.io/typing-svg)
 
+[![An image of @keiziapurba's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keiziapurba)](https://holopin.io/@keiziapurba)
+
+
 <div align="center">
   
   
