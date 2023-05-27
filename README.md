@@ -9,6 +9,7 @@
 </div>
 
 
+### About Me
 
 I am an enthusiastic data science explorer with a strong commitment to professional growth. With a fervent curiosity, I embark on exciting expeditions into the realms of Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Data Visualization, Predictive Analytics, and a multitude of other captivating disciplines. By immersing myself in a perpetual learning journey, I strive to remain at the forefront of emerging techniques and methodologies. My primary objective is to uncover valuable insights from data and facilitate informed decision-making processes. With a relentless pursuit of knowledge, I continuously expand my skill set to derive meaningful information that empowers organizations to thrive in today's data-centric landscape.
 
